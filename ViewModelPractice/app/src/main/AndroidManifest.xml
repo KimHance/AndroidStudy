@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ViewModelPractice">
+        <activity android:name=".View.ScoreActivity"/>
+        <activity android:name=".View.VictoryActivity"/>
         <activity
             android:name=".View.MainActivity"
             android:exported="true">
